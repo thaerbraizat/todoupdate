@@ -2,7 +2,7 @@
 
 i work  with ibrahemomari
 
-[CodeSandbox phase](https://2xmq1.csb.app/)
+[CodeSandbox phase](https://codesandbox.io/s/restless-platform-z098f?file=/src/App.css)
 
 ---
 
@@ -10,6 +10,7 @@ i work  with ibrahemomari
 
 ---
 
+[frontend Repo](https://github.com/thaerbraizat/todoupdate)
 [Backend Repo](https://github.com/ibrahemomari/todo-backend)
 ---
 
