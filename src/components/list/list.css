@@ -1,0 +1,14 @@
+.list-container{
+    padding: 1rem;
+    margin-top: 2rem;
+    background-color: rgba(0, 0, 0, 0.438);
+    color: white;
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.315);
+    border-radius: 20px;
+}
+small{
+    font-weight: 700;
+}
+.delete-btn{
+    float: right;
+}
